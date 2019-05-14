@@ -1,5 +1,1 @@
 hello spark!
-================
-python 
-
-print("hello world")
